@@ -49,6 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 + [Elm](http://elm-lang.org/) - type-safe functional programming language for declaratively creating web browser-based graphical user interfaces, implemented in Haskell
 + [Purescript](http://www.purescript.org/) - a small strongly typed programming language that compiles to JavaScript
 + [ElixirScript](https://github.com/bryanjos/elixirscript)
++ [LiveScript](livescript.net) - adds many features to assist in functional style programming
 
 ## Resources
 
