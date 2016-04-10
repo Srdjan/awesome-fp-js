@@ -88,6 +88,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Js\_of\_ocaml](http://ocsigen.org/js_of_ocaml/) – Compiles [OCaml](http://ocaml.org/) bytecode to JavaScript, making it possible to run OCaml programs in the browser.
 * [Scala.js](http://www.scala-js.org/) – Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
 * [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
+* [Fabel](F# to JavaScript Compiler) - Fable brings together the power of the F# compiler and Babel to make JavaScript a true backend for F#.
 
 ## Resources
 
